@@ -1,6 +1,6 @@
+/data
 .idea
 .DS_Store
-/data
 /wandb
 .ipynb_checkpoints/
 .pyc
